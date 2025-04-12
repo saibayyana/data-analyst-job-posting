@@ -1,9 +1,6 @@
 # Data Analyst Job Postings (SQL Based)
 
-**Author**: Jaime M. Shaker <br />
-**Email**: jaime.m.shaker@gmail.com <br />
-**Website**: https://www.shaker.dev <br />
-**LinkedIn**: https://www.linkedin.com/in/jaime-shaker/  <br />
+
 
 **Dataset Created By**: Luke Barousse ([LinkedIn](https://www.linkedin.com/in/luke-b/) | [YouTube](https://www.youtube.com/@LukeBarousse))<br />
 **Dataset**: [Data Analyst Job Postings [Pay, Skills, Benefits]](https://www.kaggle.com/datasets/lukebarousse/data-analyst-job-postings-google-search) <br />
